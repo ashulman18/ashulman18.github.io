@@ -1,0 +1,118 @@
+.highlight span{
+  background-color: rgb(113, 232, 166, .8);
+  font-weight:500;
+}
+
+a {
+  color: rgb(113, 232, 166);
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+a:hover, a:active, a:focus {
+  color: rgb(113, 232, 166);
+  outline: none;
+  text-decoration: none;
+}
+
+.ubea-nav ul li.has-dropdown .dropdown li a:hover {
+  color: rgb(113, 232, 166);
+}
+
+img .struc {
+  /*width: 23%;*/
+  height: 23%;
+  margin-top: 0px
+}
+
+.bttom a {
+  background-color: rgb(113, 232, 166, .8);
+}
+
+::-webkit-selection {
+  color: #fff;
+  background: rgb(113, 232, 166);
+}
+
+::-moz-selection {
+  color: #fff;
+  background: rgb(113, 232, 166);
+}
+
+::selection {
+  color: #fff;
+  background: rgb(113, 232, 166);
+}
+
+.ubea-nav #ubea-logo em {
+  color: rgb(113, 232, 166);
+}
+.ubea-nav ul li a:hover, .ubea-nav ul li a:focus, .ubea-nav ul li a:active {
+  color: rgb(113, 232, 166);
+}
+.ubea-nav ul li.has-dropdown:hover a, .ubea-nav ul li.has-dropdown:focus a {
+  color: rgb(113, 232, 166);
+}
+.ubea-nav ul li.active > a {
+  color: rgb(113, 232, 166) !important;
+}
+.ubea-cover a {
+  color: rgb(113, 232, 166);
+}
+.ubea-social-icons li a {
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  color: rgb(113, 232, 166);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/*.ubea-heading h2:before {
+  position: absolute;
+  bottom: 0;
+  content: "";
+  width: 50px;
+  margin-left: -25px;
+  height: 2px;
+  left: 50%;
+  background: #596580;
+}*/
+.btn-primary {
+  background: rgb(113, 232, 166);
+  color: #fff;
+  border: 2px solid rgb(113, 232, 166) !important;
+}
+.btn-primary.btn-outline {
+  background: transparent;
+  color: rgb(113, 232, 166);
+  border: 2px solid rgb(113, 232, 166);
+}
+.btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
+  background: rgb(113, 232, 166);
+  color: #fff;
+}
+
+.form-control:active, .form-control:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: rgb(113, 232, 166);
+}
+.ubea-nav .ubea-contact ul li a i {
+  color: rgb(113, 232, 166);
+}
+#ubea-features-3 .feature {
+  width: 33.33%;
+  float: left;
+  padding: 30px;
+  background: rgb(113, 232, 166);
+  position: relative;
+  text-align: center;
+}
+.ubea-accordion.active h3 {
+  color: rgb(113, 232, 166);
+}
+#ubea-services .feature-left h3 {
+  color: rgb(113, 232, 166);
+  font-size: 22px;
+}
